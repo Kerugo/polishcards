@@ -1,0 +1,22 @@
+[
+  {
+    "src": "images/1.jpg",
+    "alt": "Pikachu",
+    "title": "Pikachu",
+    "id": "W.C. 2010",
+    "rarity": "Promo",
+    "variant": "English back",
+    "type": "Electric",
+    "artist": "Kanako Eo"
+  },
+  {
+    "src": "images/2.jpg",
+    "alt": "Pikachu",
+    "title": "Pikachu",
+    "id": "W.C. 2010",
+    "rarity": "Promoon",
+    "variant": "Japanese back",
+    "type": "Electric",
+    "artist": "Kanako Eo"
+  }
+]
